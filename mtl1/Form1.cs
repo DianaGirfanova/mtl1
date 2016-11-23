@@ -25,7 +25,7 @@ namespace mtl1
            label3.Visible = true;
             for (int a = 0; a <=2; a++)
                 if (Convert.ToInt32(textBox1.Text) == a)
-                    label3.Text = "Очень преочень белый";
+                    label3.Text = "Очень белый";
 
 
             for (int a = 3; a <=4; a++)

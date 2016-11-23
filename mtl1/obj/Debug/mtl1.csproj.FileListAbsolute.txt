@@ -1,0 +1,9 @@
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\bin\Debug\mtl1.exe.config
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\bin\Debug\mtl1.exe
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\bin\Debug\mtl1.pdb
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.csprojResolveAssemblyReference.cache
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.Form1.resources
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.Properties.Resources.resources
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.csproj.GenerateResource.Cache
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.exe
+D:\Diana\универка\Магистратура\МатЛогика\mtl1\mtl1\obj\Debug\mtl1.pdb
